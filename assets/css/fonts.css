@@ -1,44 +1,44 @@
 /* fonts panel */
 @font-face {
     font-family:'BebasNeueRegular';
-    src: url('/assets/fonts/BebasNeue-webfont.eot');
-    src: url('/assets/fonts/BebasNeue-webfont.eot?#iefix') format('embedded-opentype'),
-         url('/assets/fonts/BebasNeue-webfont.woff') format('woff'),
-         url('/assets/fonts/BebasNeue-webfont.ttf') format('truetype'),
-         url('/assets/fonts/BebasNeue-webfont.svg#BebasNeueRegular') format('svg');
+    src: url('./assets/fonts/BebasNeue-webfont.eot');
+    src: url('./assets/fonts/BebasNeue-webfont.eot?#iefix') format('embedded-opentype'),
+         url('./assets/fonts/BebasNeue-webfont.woff') format('woff'),
+         url('./assets/fonts/BebasNeue-webfont.ttf') format('truetype'),
+         url('./assets/fonts/BebasNeue-webfont.svg#BebasNeueRegular') format('svg');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family:'Vijaya';
-    src: url('/assets/fonts/Vijaya.eot');
-    src: url('/assets/fonts/Vijaya?#iefix') format('embedded-opentype'),
-         url('/assets/fonts/Vijaya.woff') format('woff'),
-         url('/assets/fonts/Vijaya.ttf') format('truetype'),
-         url('/assets/fonts/Vijaya.svg#Vijaya') format('svg');
+    src: url('./assets/fonts/Vijaya.eot');
+    src: url('./assets/fonts/Vijaya?#iefix') format('embedded-opentype'),
+         url('./assets/fonts/Vijaya.woff') format('woff'),
+         url('./assets/fonts/Vijaya.ttf') format('truetype'),
+         url('./assets/fonts/Vijaya.svg#Vijaya') format('svg');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family:'HelveticaLTStd-Roman';
-    src: url('/assets/fonts/HelveticaLTStd-Roman.eot');
-    src: url('/assets/fonts/HelveticaLTStd-Roman.eot?#iefix') format('embedded-opentype'),
-         url('/assets/fonts/HelveticaLTStd-Roman.woff') format('woff'),
-         url('/assets/fonts/HelveticaLTStd-Roman.ttf') format('truetype'),
-         url('/assets/fonts/HelveticaLTStd-Roman.svg#HelveticaLTStd-Roman') format('svg');
+    src: url('./assets/fonts/HelveticaLTStd-Roman.eot');
+    src: url('./assets/fonts/HelveticaLTStd-Roman.eot?#iefix') format('embedded-opentype'),
+         url('./assets/fonts/HelveticaLTStd-Roman.woff') format('woff'),
+         url('./assets/fonts/HelveticaLTStd-Roman.ttf') format('truetype'),
+         url('./assets/fonts/HelveticaLTStd-Roman.svg#HelveticaLTStd-Roman') format('svg');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family:'socicon';
-    src: url('/assets/fonts/socicon.eot');
-    src: url('/assets/fonts/socicon.eot?#iefix') format('embedded-opentype'),
-         url('/assets/fonts/socicon.woff') format('woff'),
-         url('/assets/fonts/socicon.ttf') format('truetype'),
-         url('/assets/fonts/socicon.svg#sociconregular') format('svg');
+    src: url('./assets/fonts/socicon.eot');
+    src: url('./assets/fonts/socicon.eot?#iefix') format('embedded-opentype'),
+         url('./assets/fonts/socicon.woff') format('woff'),
+         url('./assets/fonts/socicon.ttf') format('truetype'),
+         url('./assets/fonts/socicon.svg#sociconregular') format('svg');
     font-weight: normal;
     font-style: normal;
     text-transform: initial;
